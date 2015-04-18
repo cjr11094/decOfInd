@@ -1,0 +1,17 @@
+body { background-color: rgb(207, 175, 128); font-family: Times, TimesNR, Georgia, serif; }
+
+h1 { text-transform: uppercase; font-weight: normal; font-size: medium; letter-spacing: 0.8em; }
+
+h2 { font-variant: small-caps; letter-spacing: 0.4em; }
+
+h1, h2 { text-align: center; }
+
+h2 strong { text-transform: uppercase; }
+
+.signer { font-style: italic; }
+
+ul li.abuses { list-style: inside none; }
+
+#declaration { font-size: x-large; display: block; margin: 1em 0; }
+
+/* comment */
